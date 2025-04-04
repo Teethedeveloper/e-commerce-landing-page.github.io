@@ -98,7 +98,7 @@ button:hover {
   font-size: 0.875rem;
   padding: 0.5rem 0;
   height: 60px;
-  overflow: hidden;
+  overflow: auto;
   text-overflow: ellipsis;
   line-height: 1.2;
 }
