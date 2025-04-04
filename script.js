@@ -216,7 +216,7 @@ const Navbar = () => {
 
 // Components
 const ProductCard = React.memo(({ product, onAddToCart, onAddToWishlist }) => /*#__PURE__*/
-React.createElement("div", { className: "col-md-2 mb-4" }, /*#__PURE__*/
+React.createElement("div", { className: "col-6 col-sm-6 col-md-4 col-lg-3 mb-4" }, /*#__PURE__*/
 React.createElement("div", { className: "card p-3 product-card" }, /*#__PURE__*/
 React.createElement("img", {
   src: product.image,
